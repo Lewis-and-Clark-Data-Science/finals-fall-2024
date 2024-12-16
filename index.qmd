@@ -14,7 +14,7 @@ library(stats)
 ```
 
 
-POLS 201 students can use R in lieu of a Z-table.  This web portal can be used in the same way as Posit Cloud or R-Studio.  Please enter your code in the box below and hit "Run" to execute. 
+POLS 201 students can use R in lieu of a Z-table.  This web portal can be used in the same way as Posit Cloud or R-Studio.  Please enter your code in the box below and hit "Run Code" to execute. 
 
 ```{webr-r}
 #Type your code here!
