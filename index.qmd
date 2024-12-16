@@ -1,0 +1,26 @@
+---
+format: html
+editor: visual
+filters: 
+  - webr
+title: "POLS 201 R coding enviroment"
+---
+
+
+```{webr-r}
+#| context: setup
+library(stats)
+
+```
+
+
+POLS 201 students can use R in lieu of a Z-table.  This web portal can be used in the same way as Posit Cloud or R-Studio.  Please enter your code in the box below and hit "Run" to execute. 
+
+```{webr-r}
+#Type your code here!
+
+
+
+
+
+```

@@ -1,0 +1,15 @@
+project:
+  type: default
+  output-dir: docs
+  
+  
+webr: 
+  packages: ['stats']
+  
+website:
+  title: "POLS 201 R coding environment"
+  
+format:
+  html:
+    theme: cosmo
+    toc: false
